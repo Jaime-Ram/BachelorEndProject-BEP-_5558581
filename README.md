@@ -203,8 +203,7 @@ KEV Cross-Reference (VulnCheck)
 ---
 
 ## References
-
-- Bellon, S., et al. (2007). "Comparison and Evaluation of Clone Detection Tools"
+- Inspired by Wu et al.
 - ExploitDB: https://www.exploit-db.com
 - VulnCheck KEV: https://vulncheck.com
 - CISA KEV Catalog: https://www.cisa.gov/known-exploited-vulnerabilities-catalog
