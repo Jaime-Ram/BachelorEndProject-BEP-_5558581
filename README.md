@@ -94,8 +94,7 @@ pip install -r requirements.txt
 | 5.1 | Similarity score distributions |
 | 5.2 | High similarity pairs table |
 | 5.3 | CVSS vs similarity correlation |
-| 5.4 | Filtering pipeline overview |
-| 5.5 | Payload comparison (side-by-side) |
+| 5.4 | Payload comparison (side-by-side) |
 
 ---
 
